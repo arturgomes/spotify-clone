@@ -1,3 +1,9 @@
+# Clonando o Spotify com Tailwind e Next.JS
+Estou fazendo minha versão do clone do Spotify, baseado 
+no [vídeo](https://www.youtube.com/watch?v=YVI-q3idGiM&t=1973s&ab_channel=Rocketseat) do @diego3g.
+
+## Existing text from Next.js
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
