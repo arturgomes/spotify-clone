@@ -1,0 +1,54 @@
+{
+  "recentes": [
+    {
+      "genre": "Por que você ouviu ...",
+      "lista": [
+        {
+          "nome": "Pop internacional",
+          "imagem": "https://picsum.photos/200/200?random=8"
+        },
+        {
+          "nome": " Músicas latinas",
+          "imagem": "https://picsum.photos/200/200?random=26"
+        },
+        {
+          "nome": "Músicas para dançar",
+          "imagem": "https://picsum.photos/200/200?random=27"
+        },
+        {
+          "nome": "Músicas clássicas",
+          "imagem": "https://picsum.photos/200/200?random=28"
+        }
+      ]
+    },
+    {
+      "genre": "Boa pedida",
+      "lista": [
+        {
+          "nome": "Músicas para relaxar",
+          "imagem": "https://picsum.photos/200/200?random=36"
+        },
+        {
+          "nome": "Músicas para bebês",
+          "imagem": "https://picsum.photos/200/200?random=37"
+        },
+        {
+          "nome": "Músicas para karaokê",
+          "imagem": "https://picsum.photos/200/200?random=38"
+        },
+        {
+          "nome": "Músicas para o Natal",
+          "imagem": "https://picsum.photos/200/200?random=39"
+        },
+        {
+          "nome": "Músicas para o Réveillon",
+          "imagem": "https://picsum.photos/200/200?random=40"
+        },
+        {
+          "nome": "Pop rock",
+          "imagem": "https://picsum.photos/200/200?random=23"
+        }
+      ]
+    }
+  ]
+}

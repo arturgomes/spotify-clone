@@ -1,0 +1,44 @@
+{
+  "playlists": [
+    {
+      "nome": "Hits do verão",
+      "imagem": "https://picsum.photos/200/200?random=1"
+    },
+    {
+      "nome": "Músicas para malhar",
+      "imagem": "https://picsum.photos/200/200?random=2"
+    },
+    {
+      "nome": "As melhores do rock",
+      "imagem": "https://picsum.photos/200/200?random=3"
+    },
+    {
+      "nome": "Samba e pagode",
+      "imagem": "https://picsum.photos/200/200?random=4"
+    },
+    {
+      "nome": "Músicas para relaxar",
+      "imagem": "https://picsum.photos/200/200?random=5"
+    },
+    {
+      "nome": "Sertanejo raiz",
+      "imagem": "https://picsum.photos/200/200?random=6"
+    },
+    {
+      "nome": "Músicas para festa",
+      "imagem": "https://picsum.photos/200/200?random=7"
+    },
+    {
+      "nome": "Pop internacional",
+      "imagem": "https://picsum.photos/200/200?random=8"
+    },
+    {
+      "nome": "Hits do momento",
+      "imagem": "https://picsum.photos/200/200?random=9"
+    },
+    {
+      "nome": "Indie rock",
+      "imagem": "https://picsum.photos/200/200?random=10"
+    }
+  ]
+}

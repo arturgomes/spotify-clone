@@ -1,0 +1,134 @@
+{
+  "sugestoes": [
+    [
+      {
+        "nome": "Pop nacional",
+        "imagem": "https://picsum.photos/200/200?random=11"
+      },
+      {
+        "nome": "Músicas românticas",
+        "imagem": "https://picsum.photos/200/200?random=12"
+      },
+      {
+        "nome": "Músicas eletrônicas",
+        "imagem": "https://picsum.photos/200/200?random=13"
+      },
+      {
+        "nome": "Anos 80 e 90",
+        "imagem": "https://picsum.photos/200/200?random=14"
+      },
+      {
+        "nome": "Músicas para trabalhar",
+        "imagem": "https://picsum.photos/200/200?random=15"
+      },
+      {
+        "nome": "Músicas para dormir",
+        "imagem": "https://picsum.photos/200/200?random=16"
+      }
+    ],
+    [
+      {
+        "nome": "Pop acústico",
+        "imagem": "https://picsum.photos/200/200?random=17"
+      },
+      {
+        "nome": "Músicas para estudar",
+        "imagem": "https://picsum.photos/200/200?random=18"
+      },
+      {
+        "nome": "Músicas brasileiras",
+        "imagem": "https://picsum.photos/200/200?random=19"
+      },
+      {
+        "nome": "Músicas internacionais",
+        "imagem": "https://picsum.photos/200/200?random=20"
+      },
+      {
+        "nome": "Rock alternativo",
+        "imagem": "https://picsum.photos/200/200?random=21"
+      },
+      {
+        "nome": "Músicas para dirigir",
+        "imagem": "https://picsum.photos/200/200?random=22"
+      }
+    ],
+    [
+      {
+        "nome": "Pop rock",
+        "imagem": "https://picsum.photos/200/200?random=23"
+      },
+      {
+        "nome": "Músicas para namorar",
+        "imagem": "https://picsum.photos/200/200?random=24"
+      },
+      {
+        "nome": "Músicas para viajar",
+        "imagem": "https://picsum.photos/200/200?random=25"
+      },
+      {
+        "nome": "Músicas latinas",
+        "imagem": "https://picsum.photos/200/200?random=26"
+      },
+      {
+        "nome": "Músicas para dançar",
+        "imagem": "https://picsum.photos/200/200?random=27"
+      },
+      {
+        "nome": "Músicas clássicas",
+        "imagem": "https://picsum.photos/200/200?random=28"
+      }
+    ],
+    [
+      {
+        "nome": "Pop internacional",
+        "imagem": "https://picsum.photos/200/200?random=29"
+      },
+      {
+        "nome": "Músicas para meditar",
+        "imagem": "https://picsum.photos/200/200?random=30"
+      },
+      {
+        "nome": "Músicas gospel",
+        "imagem": "https://picsum.photos/200/200?random=31"
+      },
+      {
+        "nome": "Músicas para animais de estimação",
+        "imagem": "https://picsum.photos/200/200?random=32"
+      },
+      {
+        "nome": "Músicas para churrasco",
+        "imagem": "https://picsum.photos/200/200?random=33"
+      },
+      {
+        "nome": "Músicas para festa junina",
+        "imagem": "https://picsum.photos/200/200?random=34"
+      }
+    ],
+    [
+      {
+        "nome": "Pop nacional",
+        "imagem": "https://picsum.photos/200/200?random=35"
+      },
+      {
+        "nome": "Músicas para relaxar",
+        "imagem": "https://picsum.photos/200/200?random=36"
+      },
+      {
+        "nome": "Músicas para bebês",
+        "imagem": "https://picsum.photos/200/200?random=37"
+      },
+      {
+        "nome": "Músicas para karaokê",
+        "imagem": "https://picsum.photos/200/200?random=38"
+      },
+      {
+        "nome": "Músicas para o Natal",
+        "imagem": "https://picsum.photos/200/200?random=39"
+      },
+      {
+        "nome": "Músicas para o Réveillon",
+        "imagem": "https://picsum.photos/200/200?random=40"
+      }
+    ]
+  ]
+}
