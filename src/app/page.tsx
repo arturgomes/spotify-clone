@@ -1,6 +1,6 @@
 import Main from './components/Main'
 import Side from './components/Side'
-import Player from './components/Side'
+import Player from './components/Player'
 
 
 export default function Home() {
