@@ -1,6 +1,7 @@
 import { HomeIcon, Search, Library } from 'lucide-react'
 import React from 'react'
 import playlists from '../../data/playlists.json'
+
 export default function index() {
   return (
     <aside className="w-72 bg-zinc-950 p-6">
@@ -23,8 +24,7 @@ export default function index() {
         </a>
       </nav>
       <nav className="mt-6 pt-10 border-t border-zinc-800 flex flex-col gap-3 ">
-        {playlists && playlists.map(playlist => (<a className="text-sm text-zinc-400 hover:text-zinc-100" href="">{playlist.nome}</a>))}
-
+        {playlists && playlists.map(playlist => (<a key={playlist.nome} className="text-sm text-zinc-400 hover:text-zinc-100" href="">{playlist.nome}</a>))}
       </nav>
     </aside>
   )
